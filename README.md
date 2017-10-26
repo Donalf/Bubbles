@@ -1,2 +1,2 @@
 # Bubbles
-Bubbles game in c as an exercise
+Bubbles game in C - experimenting with the language
